@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">마이 어플리케이션</string>
+    <string name="hi_android">하이 안드로이드</string>
+    <string name="send_title">보내기</string>
+</resources>
