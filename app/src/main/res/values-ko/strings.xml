@@ -3,4 +3,6 @@
     <string name="app_name">마이 어플리케이션</string>
     <string name="hi_android">하이 안드로이드</string>
     <string name="send_title">보내기</string>
+    <string name="btn_toast">토스트</string>
+    <string name="toast_message">토스트 메시지</string>
 </resources>
