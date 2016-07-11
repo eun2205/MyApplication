@@ -4,4 +4,8 @@
     <string name="send_title">send</string>
     <string name="btn_toast">toast</string>
     <string name="toast_message">toast message</string>
+    <string name="google_message">google</string>
+    <string name="dial_message">dial</string>
+    <string name="my_title">my</string>
+    <string name="finish_title">finish</string>
 </resources>
